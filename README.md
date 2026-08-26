@@ -31,15 +31,12 @@ This project collects and displays essential Linux system information through a 
 - Basic Bash scripting
 - Linux troubleshooting
 
-## Sample Output
+##  Output
 
-The script produces a snapshot of the Linux system:
-
-```text
 Linux System Monitoring Utility
-Hostname: ...
-Uptime: ...
-Memory Usage: ...%
-Disk Usage: ...%
-IP Address: ...
-CPU Usage: ...%
+Hostname: ip-172-31-1-227.ap-south-1
+Uptime: 19:04:37 up   1:30,1 User
+Memory Usage: 31%
+Disk Usage: 23%
+IP Address: 172.31.1.227
+CPU Usage: 6.2%
