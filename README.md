@@ -4,7 +4,7 @@ A Bash-based Linux monitoring utility created to practice Linux commands, Bash s
 
 ## Project Overview
 
-This project collects and displays essential Linux system information through a simple Bash script.
+This project collects and displays essential Linux system information through a Bash script.
 
 ### Metrics Monitored
 
